@@ -60,7 +60,7 @@ To get a copy of the project up and running on your local machine, follow these 
 
 ## Usage
 
-1. Visit the NShare web application in your browser.
+1. Visit the NnShare web application in your browser.
 2. Click on the "Upload File" button to select a file from your local machine.
 3. After the upload is complete, a download link will be generated. Click the link to download the file.
 
