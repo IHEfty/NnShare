@@ -2,6 +2,12 @@
 
 NnShare is a simple web app for uploading files and generating download links using Firebase.
 
+## Previews
+
+![Preview 1](https://github.com/IHEfty/NnShare/blob/main/images/preview_1.png)
+![Preview 2](https://github.com/IHEfty/NnShare/blob/main/images/preview_2.png)
+![Preview 3](https://github.com/IHEfty/NnShare/blob/main/images/preview_3.png)
+
 ## Features
 
 - **File Upload**: Easily upload files from your local machine.
