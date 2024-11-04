@@ -60,6 +60,8 @@ To get a copy of the project up and running on your local machine, follow these 
    ```bash
    git clone https://github.com/IHEfty/NnShare.git
    cd NnShare
+   cd dev
+   node server.js
    ```
 
 2. **Open the HTML File**: Open `index.html` in your web browser.
