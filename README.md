@@ -1,6 +1,6 @@
 # NnShare
 
-> [NnShare Live Demo](https://ihefty.github.io/NnShare/)
+> [NnShare Live Demo](https://ihefty.github.io/NnShares/)
 > 
 NnShare is a simple web app for uploading files and generating download links using Firebase.
 
