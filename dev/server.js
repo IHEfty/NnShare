@@ -7,7 +7,7 @@ const qrcode = require('qrcode-terminal');
 const app = express()
 const port = process.env.PORT || 5600;
 
-let loc = "../"
+let loc = "../public"
 
 app.use('/scripts', express.static(path.resolve(__dirname, loc, 'scripts')))
 app.use('/styles', express.static(path.resolve(__dirname, loc, 'styles')))
