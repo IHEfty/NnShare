@@ -4,9 +4,20 @@ NnShare is a simple web app for uploading files and generating download links us
 
 ## Previews
 
-![Preview 1](./public/images/preview_1.png)
-![Preview 2](./public/images/preview_2.png)
-![Preview 3](./public/images/preview_3.png)
+<table>
+    <tr>
+    <td><source src="./public/images/preview.mp4" alt="Image 00" width="550"></td>
+  </tr>
+  <tr>
+    <td><img src="./public/images/preview_1.png" alt="Image 00" width="550"></td>
+  </tr>
+  <tr>
+    <td><img src="./public/images/preview_2.png" alt="Image 01" width="550"></td>
+  </tr>
+  <tr>
+    <td><img src="./public/images/preview_3.png" alt="Image 02" width="550"></td>
+  </tr>
+</table>
 
 ## Features
 
